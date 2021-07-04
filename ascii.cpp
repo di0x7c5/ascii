@@ -1,6 +1,6 @@
 /*
     BMP to ASCII Generator - Version 0.2.3
-    Copyright (C) 2008/09  Dariusz Iwanoczko aka spark <spark89@wp.pl>
+    Copyright (C) 2008/09  Dariusz Iwanoczko aka di0x7c5 <di0x7c5@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -135,7 +135,7 @@ bool CASCII::ParseCommandline(int argc, char *argv[])
 					"Domyslnie obraz generowany jest wypelnieniem '#'. Kolor tla w pliku\n"
 					"jest domyslnie kolor czarny. Wielkosc wypelnienia 12 pixeli. Nazwa\n"
 					"pliku wyjsciowego to \"index.html\". Domyslny typ konwersji to HTML.\n\n"
-                    "Report bugs to spark89@wp.pl\n");
+                    "Report bugs to di0x7c5@gmail.com\n");
 			return true;
 		} else
 		if( !strcmp(argv[i], "-v") || !strcmp(argv[i], "--version") ) {
@@ -173,8 +173,8 @@ bool CASCII::ParseCommandline(int argc, char *argv[])
 			"###############################################################################\n"
 			"#####                                                                       ###\n"
 			"##########################################################################  ###\n"
-			"####### COPYRIGHT (C) 2oo8/~ By Dariusz Iwanoczko aka. Spark #############  ###\n"
-			"####### VERSION 2.0.2 ####################################################  ###\n"
+			"####### COPYRIGHT (C) 2oo8/~ By Dariusz Iwanoczko aka. di0x7c5 ###########  ###\n"
+			"####### VERSION 0.2.3 ####################################################  ###\n"
 			"##########################################################################  ###\n"
 			"##########################################################################  ###\n"
 			"###############################################################################\n"
@@ -184,8 +184,8 @@ bool CASCII::ParseCommandline(int argc, char *argv[])
 			"###############################################################################\n"
 			"###############################################################################\n"
 			"###############################################################################\n"
-			"### E-Mail: spark89@wp.pl      ################################################\n"
-			"### WWW: http://spark.ovh.org  ################################################\n"
+			"### E-Mail: di0x7c5@gmail.com         #########################################\n"
+			"### WWW: http://blackisthecolor.pl/   #########################################\n"
 			"###############################################################################\n"
 			"###############################################################################\n");
 			return true;

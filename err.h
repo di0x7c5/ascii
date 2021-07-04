@@ -1,6 +1,6 @@
 /*
     BMP to ASCII Generator - Version 0.2.3
-    Copyright (C) 2008/09  Dariusz Iwanoczko aka spark <spark89@wp.pl>
+    Copyright (C) 2008/09  Dariusz Iwanoczko aka di0x7c5 <di0x7c5@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
